@@ -1,0 +1,83 @@
+  
+[
+   {
+      "name":"Pocophone F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "maintainer_name":"Sahil Sonar",
+      "maintainer_url":"https://github.com/SahilSonar",
+      "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-cesiumos-t4005223",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 845",
+            "ram":"4/6/8GB LPDDR4X",
+            "display":"IPS 5.99\" 1080p",
+            "battery":4000,
+            "camera":"13Mpx 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Redmi 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"sakura",
+      "maintainer_name":"Tushar Mahajan",
+      "maintainer_url":"https://github.com/mahajant99",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"3/4GB LPDDR4X",
+            "display":"IPS 5.84\" 1080p",
+            "battery":4000,
+            "camera":"12Mpx + 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Redmi Y2/S2",
+      "brand":"Xiaomi",
+      "codename":"ysl",
+      "maintainer_name":"Tushar Mahajan",
+      "maintainer_url":"https://github.com/mahajant99",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"3/4GB LPDDR4X",
+            "display":"IPS 5.99\" 720p",
+            "battery":3080,
+            "camera":"12Mpx + 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "maintainer_name":"Vijay Chandra",
+      "maintainer_url":"https://github.com/vijaychandra800",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-cesiumos-t4005913",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 675",
+            "ram":"4/6GB LPDDR4X",
+            "display":"IPS 6.3\" 1080p",
+            "battery":4000,
+            "camera":"48Mpx 5Mpx + 13Mpx"
+         }
+      ]
+   },
+ ]
