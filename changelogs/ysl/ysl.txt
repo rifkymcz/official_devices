@@ -1,0 +1,38 @@
+=====================
+	DEVICE 
+===================== 
+1. Fixed Volte for Airtel & vodafone
+2. Fixed RIL Fluctuations
+3. Fixed DT2W
+4. Fixed Random Reboot issue
+5. Fixed force reboot during initial boot
+6. Fixed A2DP issues
+7. Fixed Rotation Issue
+8. Fixed IMS Registration
+9. Fixed Volume Slider during Call
+10. Fixed Cast
+11. Fixed USB Tethering
+12. Disabled NearbyMessageService
+13. Increased incall Volume
+14. Enable USB Debugging on Boot
+15. Enabled Camera API2 by default
+16. Enable VENDOR_RIL_SUPPORT
+17. Use AOSP SurfaceFlinger
+18. Add aptx blobs from crosshatch QP1A.190711.020
+19. Allow active package broadcast
+20. Allow apps to use smart replies
+21. SafetyNet fixed when you aren't rooted
+22. Enable AUDIO_FEATURE_ENABLED_EXTENDED_COMPRESS_FORMAT
+25. Update Radio Stack to Q
+26. Update ims apk from LA.UM.8.6.r1-01900-89xx.0
+27. Update QC RIL service from LA.UM.8.6.2.r1-03700-89xx.0
+28. Update graphics and media from LA.UM.8.6.2.r1-03700-89xx.0
+29. Update postprocessing from LA.UM.8.6.2.r1-03700-89xx.0
+30. Update Widevine from LA.UM.8.6.2.r1-03700-89xx.0
+31. Update CNE/DPM/Time from LA.UM.8.6.2.r1-03700-89xx.0
+32. Update perf stack from LA.UM.8.6.2.r1-03700-89xx.0
+33. Update Wi-Fi Display blobs from LA.UM.8.6.2.r1-03700-89xx.0
+34. Update DRM/TEE blobs from LA.UM.8.6.2.r1-03700-89xx.0
+35. Update GPS stack to Q
+36. Update QTI bluetooth stack from LA.UM.8.6.2.r1-03700-89xx.0
+37. Update power-off alarm blobs from LA.UM.8.6.2.r1-03700-89xx.0
