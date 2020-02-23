@@ -80,4 +80,24 @@
          }
       ]
    },
+   {
+      "name":"Redmi Note 4",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "maintainer_name":"Shashank patil",
+      "maintainer_url":"https://github.com/shashank1436",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"3/4 ",
+            "display":"IPS 5.2\" 1080p",
+            "battery":4010,
+            "camera":"13Mpx + 5Mpx"
+         }
+      ]
+   },
  ]
