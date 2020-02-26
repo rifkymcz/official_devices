@@ -1,0 +1,16 @@
+=====================
+        DEVICE
+=====================
+
+1) Kernel upstream to v4.9.214
+
+=====================
+        SOURCE
+=====================
+
+1) Added brand new VoLTE icon
+2) Fix missing incall vibration option
+3) Added FaceUnlock (Beta)
+4) Some build system related patches
+5) Added incremental & block based OTA support
+6) Bumped release string to v2.5.1
