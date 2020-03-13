@@ -140,7 +140,7 @@
          }
       ]
    },
-  {
+   {
       "name":"Xiaomi Mi A1",
       "brand":"Xiaomi",
       "codename":"tissot",
@@ -157,4 +157,7 @@
             "display":"IPS 5.5\" 1080p",
             "battery":3080,
             "camera":"12Mpx 12Mpx"
+         }
+      ]
+   },
  ]
