@@ -1,0 +1,37 @@
+
+=======================
+     2020/03/12
+=======================
+
+
+=======================
+     2020/03/11
+=======================
+
+
+   * bootable/recovery/
+2aa8602 recovery: increase free memory for sideload cache
+
+   * device/oneplus/oneplus3/
+cdf8b28 updated settings
+
+   * system/core/
+133b02a fastbootd: usb: fallback to v1 descriptors
+
+=======================
+     2020/03/10
+=======================
+
+
+   * packages/apps/Settings/
+79a356a Merge tag 'android-10.0.0_r31' of https://android.googlesource.com/platform/packages/apps/Settings into ten
+
+   * packages/apps/Updates/
+d820a2d Updtes: Fetch changelog from URL
+
+   * packages/services/Telecomm/
+1547ba3 incall vibration options [2/3] *allow setting vibration when call is connected *allow setting vibration when call is disconnected *allow setting vibration for $
+
+   * vendor/aosp/
+a5cdcad vendor: tools: Sort the json to suit the latest OTA system
+
