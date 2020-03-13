@@ -1,0 +1,8 @@
+=====================
+	DEVICE 
+===================== 
+1. Upstreamed Kernel to v4.9.215
+2. Added Offline Pixel Charging Animation
+3. Fixed Battery Stats
+4. Blocked Google Voice & NearBy Messaging Services again
+5. Updated to Sound Trigger v2.2
