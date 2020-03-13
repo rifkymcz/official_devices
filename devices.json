@@ -100,4 +100,44 @@
          }
       ]
    },
+   {
+      "name":"Samsung A5 2016",
+      "brand":"Samsung",
+      "codename":"a5xelte",
+      "maintainer_name":"bunnyy",
+      "maintainer_url":"https://github.com/BunsExynos",
+      "xda_thread":"https://forum.xda-developers.com/*",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Exynos 7580",
+            "ram":"2GB LPDDR4X",
+            "display":"IPS 5.5\" 1080p",
+            "battery":3300,
+            "camera":"13Mpx 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Samsung A7 2016",
+      "brand":"Samsung",
+      "codename":"a7xelte",
+      "maintainer_name":"bunnyy",
+      "maintainer_url":"https://github.com/BunsExynos",
+      "xda_thread":"https://forum.xda-developers.com/*",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Exynos 7580",
+            "ram":"3GB LPDDR4X",
+            "display":"IPS 5.7\" 1080p",
+            "battery":3600,
+            "camera":"16Mpx 16Mpx"
+         }
+      ]
+   },
  ]
