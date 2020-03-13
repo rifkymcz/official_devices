@@ -140,4 +140,24 @@
          }
       ]
    },
+   {
+      "name":"Xiaomi Mi A1",
+      "brand":"Xiaomi",
+      "codename":"tissot",
+      "maintainer_name":"Rifky Mcz",
+      "maintainer_url":"https://github.com/rifkymcz",
+      "xda_thread":"https://forum.xda-developers.com/*",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"4GB",
+            "display":"IPS 5.5\" 1080p",
+            "battery":3080,
+            "camera":"12Mpx 12Mpx"
+         }
+      ]
+   },
  ]
